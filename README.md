@@ -7,6 +7,12 @@
 B.S., Business Data Analytics | Arizona State University (_May 2025_)
 
 ## Experience
+**Shift Supervisor @ Starbucks (_April 2022 - Present_)**
+- Leveraged weekly guest survey KPIs to identify service improvement opportunities, designing targeted initiatives that boosted customer satisfaction scores by 9%
+- Analyzed guest behavior and operational data to implement efficiency strategies, reducing peak drive-thru times by 10 seconds
+- Streamlined inventory and order workflows by monitoring usage trends, cutting waste by 15% while ensuring product availability for guests
+- Supported implementation of new store systems and trained team members, helping the team adapt quickly while maintaining consistent operations.
+
 **SQL and Python Trainee @ The Global Career Accelerator (_January 2025 - May 2025_)**
 - Analyzed real-world datasets in Jupyter Notebook, producing actionable insights and recommendations
 - Communicated data analysis results verbally, in writing, and by creating visualizations in Tableau

@@ -6,6 +6,13 @@
 ## Education			        		
 B.S., Business Data Analytics | Arizona State University (_May 2025_)
 
+## Certifications
+[**Python Specialist**](https://www.credential.net/5b99cdb5-95e5-48e9-b163-b9c59b5f96d8#acc.IBRzQVAs)
+[**SQL Specialist**](https://www.credential.net/c1f708ad-4d4a-403b-be1a-772aad27b0dd#acc.Abowy197)
+[**Excel Specialist**](https://www.credential.net/414b3053-4053-403d-aaeb-739dfcd8bbd2#acc.6QP34AVI)
+[**Tableau Specialist**](https://www.credential.net/0558143e-40b4-4a74-9b86-62874c1ac1da#acc.fq7OjQpC)
+[**Intercultural Skills**](https://www.credential.net/e68ea159-0cec-4fc2-8a15-2841a294d632#acc.43aYyUWn)
+
 ## Experience
 **Shift Supervisor @ Starbucks (_April 2022 - Present_)**
 - Leveraged weekly guest survey KPIs to identify service improvement opportunities, designing targeted initiatives that boosted customer satisfaction scores by 9%
@@ -20,7 +27,7 @@ B.S., Business Data Analytics | Arizona State University (_May 2025_)
 - Collaborated with a diverse global team to complete tasks and deliver timely and accurate projects
   
 **Excel and Tableau Trainee @ The Global Career Accelerator (_January 2023 - May 2023_)**
-- Applied advanced Excel techniques including XLOOKUP, PivotTables, PivotCharts, and A/B testing to explore business problems and support decision-making
+- Applied advanced Excel techniques, including XLOOKUP, PivotTables, PivotCharts, and A/B testing, to explore business problems and support decision-making
 - Built clear, interactive dashboards in Tableau using calculated fields, parameters, and blended data to communicate key insights to stakeholders
 - Practiced data storytelling, visualization best practices, and hypothesis-driven analysis to generate actionable recommendations for business leaders
 - Gained hands-on experience presenting findings to diverse audiences and collaborating with a global team in a simulated professional setting using large datasets for enterprise-level business scenarios

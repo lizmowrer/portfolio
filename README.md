@@ -8,14 +8,14 @@ B.S., Business Data Analytics | Arizona State University (_May 2025_)
 
 ## Certifications
 
-<a href="https://www.credential.net/5b99cdb5-95e5-48e9-b163-b9c59b5f96d8#acc.IBRzQVAs" target="_blank" style="padding:6px 10px; background-color:#007ACC; color:white; border-radius:5px; text-decoration:none; display:inline-block; margin:2px;">Python Specialist</a>
-<a href="https://www.credential.net/c1f708ad-4d4a-403b-be1a-772aad27b0dd#acc.Abowy197" target="_blank" style="padding:6px 10px; background-color:#007ACC; color:white; border-radius:5px; text-decoration:none; display:inline-block; margin:2px;">SQL Specialist</a>
-<a href="https://www.credential.net/414b3053-4053-403d-aaeb-739dfcd8bbd2#acc.6QP34AVI" target="_blank" style="padding:6px 10px; background-color:#007ACC; color:white; border-radius:5px; text-decoration:none; display:inline-block; margin:2px;">Excel Specialist</a>
-<a href="https://www.credential.net/0558143e-40b4-4a74-9b86-62874c1ac1da#acc.fq7OjQpC" target="_blank" style="padding:6px 10px; background-color:#007ACC; color:white; border-radius:5px; text-decoration:none; display:inline-block; margin:2px;">Tableau Specialist</a>
-<a href="https://www.credential.net/e68ea159-0cec-4fc2-8a15-2841a294d632#acc.43aYyUWn" target="_blank" style="padding:6px 10px; background-color:#007ACC; color:white; border-radius:5px; text-decoration:none; display:inline-block;_
+<a href="https://www.credential.net/5b99cdb5-95e5-48e9-b163-b9c59b5f96d8#acc.IBRzQVAs" target="_blank" style="padding:6px 10px; background-color:#ef6292; color:white; border-radius:5px; text-decoration:none; display:inline-block; margin:2px;">Python Specialist</a>
+<a href="https://www.credential.net/c1f708ad-4d4a-403b-be1a-772aad27b0dd#acc.Abowy197" target="_blank" style="padding:6px 10px; background-color:#ef6292; color:white; border-radius:5px; text-decoration:none; display:inline-block; margin:2px;">SQL Specialist</a>
+<a href="https://www.credential.net/414b3053-4053-403d-aaeb-739dfcd8bbd2#acc.6QP34AVI" target="_blank" style="padding:6px 10px; background-color:#ef6292; color:white; border-radius:5px; text-decoration:none; display:inline-block; margin:2px;">Excel Specialist</a>
+<a href="https://www.credential.net/0558143e-40b4-4a74-9b86-62874c1ac1da#acc.fq7OjQpC" target="_blank" style="padding:6px 10px; background-color:#ef6292; color:white; border-radius:5px; text-decoration:none; display:inline-block; margin:2px;">Tableau Specialist</a>
+<a href="https://www.credential.net/e68ea159-0cec-4fc2-8a15-2841a294d632#acc.43aYyUWn" target="_blank" style="padding:6px 10px; background-color:#ef6292; color:white; border-radius:5px; text-decoration:none; display:inline-block; margin:2px;">Intercultural Skills</a>
 
 ## Projects
-<a href="https://github.com/lizmowrer/Grammys-Web-Analytics/blob/main/README.md" target="_blank" style="padding:6px 10px; background-color:#28a745; color:white; border-radius:5px; text-decoration:none; display:inline-block; margin:2px;">Grammys Web Analytics</a>
+<a href="https://github.com/lizmowrer/Grammys-Web-Analytics/blob/main/README.md" target="_blank" style="padding:6px 10px; background-color:#6a0dad; color:white; border-radius:5px; text-decoration:none; display:inline-block;">Grammys Web Analytics</a>
 
 ## Experience
 **Shift Supervisor @ Starbucks (_April 2022 - Present_)**

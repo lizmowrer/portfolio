@@ -1,3 +1,5 @@
 title: Liz Mowrer
 logo: /assets/img/headshot.jpeg
 theme: jekyll-theme-minimal
+head_includes:
+  - favicon.html

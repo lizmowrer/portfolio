@@ -15,7 +15,7 @@ B.S., Business Data Analytics | Arizona State University (_May 2025_)
 <a href="https://www.credential.net/e68ea159-0cec-4fc2-8a15-2841a294d632#acc.43aYyUWn" target="_blank" style="padding:6px 10px; background-color:#ef6292; color:white; border-radius:5px; text-decoration:none; display:inline-block; margin:2px;">Intercultural Skills</a>
 
 ## Projects
-<a href="https://github.com/lizmowrer/Grammys-Web-Analytics/blob/main/README.md" target="_blank" style="padding:6px 10px; background-color:#6a0dad; color:white; border-radius:5px; text-decoration:none; display:inline-block;">Grammys Web Analytics</a>
+<a href="https://github.com/lizmowrer/Grammys-Web-Analytics/blob/main/README.md" target="_blank" style="padding:6px 10px; background-color:#6a0dad; color:white; border-radius:5px; text-decoration:none; display:inline-block;">Grammys Web Analytics</a> <a href="https://github.com/lizmowrer/Intel-Data-Center-Analysis" target="_blank" style="padding:6px 10px; background-color:#6a0dad; color:white; border-radius:5px; text-decoration:none; display:inline-block;">Intel Data Center Analysis</a>
 
 ## Experience
 **Shift Supervisor @ Starbucks (_April 2022 - Present_)**
